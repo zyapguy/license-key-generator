@@ -23,8 +23,8 @@ But you can also create a custimised one. The LicenseKey() class takes 3 argumen
 Example of custom usage:
 
     from licensekeygenerator import LicenseKey
-    key = LicenseKey()
-    keyValue = key.generateKey(3,6,"--")
+    key = LicenseKey(3,6,"--")
+    keyValue = key.generateKey()
     print(keyValue)
 
 This will print something like:

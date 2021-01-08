@@ -37,8 +37,8 @@ print(keyValue)
 
 Customised Usage:
 
-key = LicenseKey()
-keyValue = key.generateKey(3,8,"--")
+key = LicenseKey(3,8,"--")
+keyValue = key.generateKey()
 print(keyValue)
 
 >>Emg--Zpb--vLH--PbN--GYN--bBt--6Sd--2bV
