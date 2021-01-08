@@ -28,7 +28,8 @@ Example of custom usage:
     print(keyValue)
 
 This will print something like:
-    XXX--XXX--XXX--XXX--XXX--XXXs
+
+    XXX--XXX--XXX--XXX--XXX--XXX
 
 
 If you have any questions, email zyapimstudios@gmail.com or my discord at zyapguy#0320
